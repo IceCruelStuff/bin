@@ -1,9 +1,9 @@
 This snapshot was automatically generated on
-Fri, 29 Nov 2019 12:54:46 +0000
+Sat, 21 Dec 2019 20:38:43 +0000
 
-Version: 7.3.12
+Version: 7.3.13
 Branch: HEAD
-Build: C:\pocketmine-php-sdk\php-src\x64\Release_TS
+Build: D:\a\1\s\pocketmine-php-sdk\php-src\x64\Release_TS
 
 Built-in Extensions
 ===========================
